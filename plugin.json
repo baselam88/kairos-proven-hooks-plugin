@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Decides which organic hooks earn paid spend: only hooks that already earned engagement organically get budget.",
+  "keywords": [
+    "hooks",
+    "kairos",
+    "proven",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-proven-hooks",
+  "repository": "https://github.com/baselam88/kairos-proven-hooks-plugin",
+  "version": "0.1.0"
+}
